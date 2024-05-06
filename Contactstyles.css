@@ -3,27 +3,25 @@ body  {
     margin:0;
     padding: 0;
 }           
-header{
-    background:rgb(238, 231, 231);
-    padding: 100px;
-    margin-right: 0px;
-                      
+header{   
+background: url("/image/mom\ and\ baby.jpg")transparent no-repeat;
+background-size:  100% 150%; 
+background-position: center;   
+padding: 100px;
+margin-right: 0px;
+height: 400px;
+width: 1400px;    
+                                       
 }
 section{
     background:white;
-    color:rgb(14, 15, 15);
-    padding: 100px;
-    font-family: Arial, Helvetica, sans-serif;
+    color:Black;
+    font color: Black;
     font-size: 50px;
-    
-                                
+    padding: 100px;
+                                            
 }
-div{
-    background: pink;
-    margin: auto;
-    width: 200px;               
-    font-size: 30px;  
-}
+
 ul{
     margin: 0;
     padding:0;
@@ -35,7 +33,5 @@ li
     display: inline-block;
     margin: 0 10px 0 0;
 }
-footer{
-    background:rgb(230, 236, 238);        
-    padding: 10px 40px 20px 40px;           
-}
+      
+     

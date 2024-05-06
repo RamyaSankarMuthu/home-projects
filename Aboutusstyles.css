@@ -1,0 +1,36 @@
+body  {
+    background-color: rgb(18, 17, 17);
+    margin:0;
+    padding: 0;
+}           
+header{
+    background: url("/image/white.jpg")transparent no-repeat;
+    background-size:  100% 100%;    
+    padding: 100px;
+    margin-right: 0px;
+    height: 400px;
+    width: 1400px;                                     
+}
+section{
+    background:white;
+    color:black;
+    font-size: 30px;
+    padding: 100px;
+    display: flex;
+    flex-direction:  row;                                            
+}
+
+
+ul{
+    margin: 0;
+    padding:0;
+    list-style-type: none;
+    font-size: 32px;
+}
+li
+{ 
+    display: inline-block;
+    margin: 0 10px 0 0;
+}
+      
+            

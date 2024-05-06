@@ -3,23 +3,27 @@ body  {
     margin:0;
     padding: 0;
 }           
-header{
-    background:rgb(238, 231, 231);
+header{    
+    background: url("/image/laptop\ working.jpg")transparent no-repeat;
+    background-size:  100% 150%; 
+    background-position: center;   
     padding: 100px;
     margin-right: 0px;
-                      
+    height: 400px;
+    width: 1400px;                                  
 }
 section{
+    
+      
     background:white;
     color:azure;
-    padding: 100px;
-    display: flex;
-    flex-direction:  row;
-                                
+    font color: Black;
+    padding: 20px;
+                                              
 }
 div{
     background: pink;
-    margin: auto;
+   
     width: 200px;               
     font-size: 30px;  
 }
@@ -35,6 +39,8 @@ li
     margin: 0 10px 0 0;
 }
 footer{
-    background:rgb(230, 236, 238);        
+    background:rgb(230, 236, 238);
+    font-size: 50px;        
     padding: 10px 40px 20px 40px;           
-}
+}          
+            
